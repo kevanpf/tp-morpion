@@ -1,0 +1,3 @@
+J'ai utilisé chat gpt pour lui demander de me guider étapes par étapes sur mon projet en me donnant les notions importantes à instaurer dans mon code. 
+Voici mon prompt : 
+A partir du bout de code que j'ai déjà fais et des consignes du projet, guide moi pour m'aider à procéder étapes par étapes sans me donner les réponses. Et donne moi les notions que je devrai utiliser pour les étapes spécifiques.
